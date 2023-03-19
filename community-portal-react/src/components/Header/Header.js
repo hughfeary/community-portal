@@ -1,0 +1,19 @@
+import React from "react";
+
+export default function Header() {
+    return (
+        <div className="header">
+            <h2>Header</h2>
+        </div>
+    ); 
+}
+
+
+// const Header = () => {
+//     return (
+//         <div className="header">
+//             <h2>Header</h2>
+//         </div>
+//     );
+// }
+// export default Header
