@@ -5,7 +5,7 @@ import News from "./News/News"
 
 export default function Main() {
     return (
-        <div className="main">
+        <div className="mainBoy">
             <h2>Main</h2>
             <Panels />
             <News />
